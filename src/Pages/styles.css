@@ -1,0 +1,7 @@
+@media (max-width: 768px){
+    .grid{
+
+        gridTemplateColumns: 'repeat(1, 1fr)',
+    }
+  }
+
